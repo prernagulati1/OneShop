@@ -22,8 +22,6 @@ export const updateItemQuantity = (quantity, id) => {
 };
 
 export const emptyCart = () => {
-  console.log(" in action==>");
-
   return {
     type: "EMPTY_CART",
   };
