@@ -1,0 +1,109 @@
+[
+  {
+    "id": "P1",
+    "name": "Redmi 9",
+    "price": 9299,
+    "mainImage": "https://m.media-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tBWYbLoyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cTPCIXsrL._SL1500_.jpg"
+    ],
+    "description": "13+2MP Rear camera with AI Portrait,5MP front facing camera"
+  },
+  {
+    "id": "P2",
+    "name": "OPPO A31 ",
+    "price": 12990,
+    "mainImage": "https://m.media-amazon.com/images/I/61CnyJ-IbML._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61CnyJ-IbML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61YKaCDF0PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51lwdC6A9eL._SL1500_.jpg"
+    ],
+    "description": "12+2+2MP triple rear camera | 8MP front camera"
+  },
+  {
+    "id": "P3",
+    "name": "OnePlus Nord CE 5G ",
+    "price": 24999,
+    "mainImage": "https://m.media-amazon.com/images/I/61iy2Ru9KdS._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61iy2Ru9KdS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bUBi7U6-S._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SvyuENLmS._SL1500_.jpg"
+    ],
+    "description": "6.43-inch, 90Hz fluid AMOLED display with 2400 x 1080 pixels resolution | 410ppi"
+  },
+  {
+    "id": "P4",
+    "name": "Samsung Galaxy S21 5G",
+    "price": 54990,
+    "mainImage": "https://m.media-amazon.com/images/I/91C0EYR0q5L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91C0EYR0q5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hFvpH4N4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Xm0+mz7DL._SL1500_.jpg"
+    ],
+    "description": "8GB RAM | 128GB internal Storage dual-standby (5G+5G)"
+  },
+  {
+    "id": "P5",
+    "name": "Redmi 9 Activ",
+    "price": 10990,
+    "mainImage": "https://m.media-amazon.com/images/I/911TJ1CDbLL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/911TJ1CDbLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815iiAySxDL._SL1500_.jpg"
+    ],
+    "description": "Processor: Octa-core Helio G35 and upto 2.3GHz clock speed"
+  },
+  {
+    "id": "P6",
+    "name": "Vivo Y33s",
+    "price": 18990,
+    "mainImage": "https://m.media-amazon.com/images/I/61pDMzuZhKL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61pDMzuZhKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71OxIdBNoBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51RnBXkT8WL._SL1500_.jpg"
+    ],
+    "description": "50MP+2MP+2MP Rear Camera | 16MP Selfie Camera"
+  },
+  {
+    "id": "P7",
+    "name": "Dell VOSTRO 3405",
+    "price": 37990,
+    "mainImage": "https://m.media-amazon.com/images/I/51IsQHLroNL._SL1080_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51IsQHLroNL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61psyoZGwkL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61--1mK3QeL._SL1080_.jpg"
+    ],
+    "description": "Processor: :AMD Ryzen 3 3250U Mobile Processor with Radeon Graphics"
+  },
+  {
+    "id": "P8",
+    "name": "Dell Inspiron 3501",
+    "price": 64347,
+    "mainImage": "https://m.media-amazon.com/images/I/61zbf9g+VDS._SL1280_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61zbf9g+VDS._SL1280_.jpg",
+      "https://m.media-amazon.com/images/I/81Wz1APHB9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61R-oFnOPPS._SL1280_.jpg"
+    ],
+    "description": "11th Generation Intel Core i5-1135G7 Processor"
+  },
+  {
+    "id": "P9",
+    "name": "HP EliteBook",
+    "price": 26599,
+    "mainImage": "https://m.media-amazon.com/images/I/71af4QeUe8L._SL1380_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71af4QeUe8L._SL1380_.jpg",
+      "https://m.media-amazon.com/images/I/71PLjkFIEKL._SL1380_.jpg",
+      "https://m.media-amazon.com/images/I/21pDMyjI5YS.jpg"
+    ],
+    "description": "Features like AMD R5 Graphics make it an ideal product"
+  }
+]

@@ -1,0 +1,48 @@
+.shopping-cart {
+  margin-bottom: 50px;
+}
+
+.shopping-cart h2 {
+  padding: 15px 12px;
+  border-bottom: 1px solid #d7d7d7;
+}
+
+.shopping-cart .Product {
+  margin: 20px 0;
+  align-items: center;
+}
+
+.actions {
+  padding: 20px 12px;
+  border-top: 1px solid #d7d7d7;
+}
+
+.actions button {
+  margin-right: 10px;
+}
+.CartSummary #coupon {
+  border: none;
+  width: 100%;
+  padding: 5px 12px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.cartEmpty {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.cartEmpty img {
+  width: 75%;
+}
+
+.coupon {
+  margin-left: 15px;
+  font-size: 10px;
+  color: red;
+}
+
+.coupon.applied {
+  color: green;
+}

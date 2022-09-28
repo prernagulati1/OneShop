@@ -1,0 +1,56 @@
+.Cart-type {
+  font-weight: 700;
+}
+
+.payment {
+  justify-content: center;
+}
+
+.paypal {
+  align-items: center;
+}
+
+.paypal label {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.paypal p {
+  font-size: 12px;
+}
+
+.paypal .logo img {
+  width: 100%;
+}
+
+.payment .paypal {
+  border: 1px solid #d7d7d7;
+  padding: 5px;
+  margin: 15px 0;
+}
+
+.credit-card {
+  border: 1px solid #d7d7d7;
+  padding: 15px 10px;
+  margin: 14px;
+  align-items: center;
+}
+
+.credit-card .row {
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.credit-card input {
+  padding: 5px;
+}
+
+.cardDetails hr {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .credit-card input {
+    margin-bottom: 10px;
+  }
+}

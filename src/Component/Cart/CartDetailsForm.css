@@ -1,0 +1,64 @@
+.user-name input,
+.country input,
+.country select {
+  width: 48%;
+  padding: 5px;
+  margin: 15px 0;
+  /* border-radius: 5px; */
+  margin-right: 14px;
+}
+
+.address input {
+  width: 98%;
+  padding: 5px;
+  /* border-radius: 5px; */
+  margin: 15px 0;
+}
+
+.shipping {
+  justify-content: space-around;
+}
+
+.shipping .free,
+.shipping .paid {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 15px 0;
+  border: 1px solid #d7d7d7;
+  padding: 10px;
+}
+
+.shipping input {
+  margin: 5px;
+  margin-bottom: 0;
+}
+
+.shipping span {
+  font-size: 10px;
+  display: block;
+  margin-left: 47px;
+  margin-top: 0px;
+}
+
+@media (max-width: 991px) {
+  .user-name input,
+  .country input,
+  .country select,
+  .address input {
+    width: 90%;
+    margin-left: 15px;
+  }
+  .shipping .free,
+  .shipping .paid {
+    border: none;
+  }
+}
+
+.invalid {
+  border: 1px solid red;
+}
+
+.has-error {
+  color: red;
+}

@@ -1,0 +1,26 @@
+.section-shopping-head h3 {
+  padding: 20px;
+  text-align: center;
+  margin: 30px 0;
+  border-bottom: 2px solid #d7d7d7;
+}
+
+.section-shopping-head .col {
+  padding: 0;
+  margin: 0;
+}
+
+.section-shopping-head h3 a {
+  text-decoration: none;
+  color: #000;
+}
+
+.section-shopping-head .active {
+  border-bottom: 2px solid #000;
+}
+
+@media (max-width: 991px) {
+  .section-shopping-head {
+    display: none;
+  }
+}

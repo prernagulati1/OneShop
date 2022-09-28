@@ -1,0 +1,33 @@
+.about {
+  background: url("../../Assets/about.jpg") no-repeat center center/cover;
+  height: calc(100vh - 150px);
+  position: relative;
+  color: #fff;
+}
+
+.about::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+}
+
+.about-content {
+  position: relative;
+  z-index: 1;
+}
+
+.about h2,
+.about h4 {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.about p {
+  padding: 20px 50px;
+  text-align: center;
+}
